@@ -222,7 +222,6 @@ jobs:
           2hlollipop \
           meal_week \
           profiles \
-          live_activity \
           negative_insulin
 
           # the final customization listed above CANNOT have a continuation character
